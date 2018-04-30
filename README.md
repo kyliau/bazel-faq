@@ -1,2 +1,3 @@
 # bazel
-Notes and links for Bazel
+
+[bazel](https://bazel.build/) is an automation framework for building and testing software.
